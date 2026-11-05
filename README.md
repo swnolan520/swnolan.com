@@ -1,10 +1,10 @@
-# Personal website project directory
+# Personal Website Project Directory
 This repository contains all of the resources needed to run swnolan.com
 
 ![html_button](https://img.shields.io/html5/v/html5.svg?logo=html5)
 
-## about the website and project
-The goal of this project is to create a professional website showcasing my skills and to share a bit of info about me. So far, the website runs using a domain name purchased from the DNS site Namecheap labeled swnolan.com. Resources are hosted by Github Pages via domain CNAME.
+## About the website and project
+The goal of this project is to create a professional website showcasing my skills and to share a bit of info about me. The website runs using a domain name purchased from the DNS site Namecheap labeled swnolan.com. Resources are hosted by Github Pages via domain CNAME.
 
 # Project Updates
 
