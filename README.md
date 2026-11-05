@@ -9,14 +9,14 @@ The goal of this project is to create a professional website showcasing my skill
 # Project Updates
 
 ### Version 1.02 (11/5/2026)
-#### Organize CSS semantics to help better format pages
-- [x] Split styles.css out by html page
-- [x] objects adjust around background artwork according to page size
 #### Use CSS to semantically format pages to display responsively on browser windows
 - [] format index page photos and content
 - [] Keep Certification photos from sliding off center
+#### Organize CSS semantics to help better format pages
+- [x] Split styles.css out by html page
+- [x] objects adjust around background artwork according to page size
 
-#### sprint 01 backlog (v1.01)
+### Version 1.01 (4/5/2025 - Backlog)
 - [] edit cookie pop up so it does not return if a user refreshes a page (Page data cache? fix for this uncertain.)
 
 ## Version 1.0 Features (3/23/2025)
