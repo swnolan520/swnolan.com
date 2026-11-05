@@ -12,7 +12,7 @@ The goal of this project is to create a professional website showcasing my skill
 
 
 # Version 1.0 Features (3/23/2025)
-## to-do
+
 <u>web hosting</u>
 [] Apache Server
 [] Azure static web app
