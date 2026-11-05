@@ -16,6 +16,8 @@ The goal of this project is to create a professional website showcasing my skill
 - [] format index page photos and content
 - [] Keep Certification photos from sliding off center
 
+#### sprint 01 backlog (v1.01)
+- [] edit cookie pop up so it does not return if a user refreshes a page (Page data cache? fix for this uncertain.)
 
 ## Version 1.0 Features (3/23/2025)
 
