@@ -9,7 +9,7 @@ The goal of this project is to create a professional website showcasing my skill
 # Project Updates
 
 ### Version 1.02 (11/5/2026)
-### Organize CSS semantics to help better format pages
+#### Organize CSS semantics to help better format pages
 - [] Split styles.css out by html page
 - [] objects adjust around background artwork according to page size
 
