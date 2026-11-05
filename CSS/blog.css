@@ -1,0 +1,33 @@
+/*Blog*/
+.blog{
+    display: grid;
+    grid-template-columns: 400px repeat(1,auto);
+    grid-template-rows: repeat(2,auto);
+    grid-column-gap: 50px;
+}
+#blog{
+    margin: 30px;
+}
+#joke-box{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#joke-box{
+    grid-row: 1 / 2;
+}
+#setup{
+    background-color: black;
+    border-radius: 4px;
+}
+#delivery{
+    background-color: black;
+    border-radius: 4px;
+}
+
+/* WIP
+#spotify-api{
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+}
+*/

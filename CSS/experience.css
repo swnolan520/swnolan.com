@@ -1,0 +1,35 @@
+/*Experience*/
+.accordion{
+    margin: 20px;
+}
+.certification-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.certification{
+    width: 350px;
+    height: auto;
+}
+.Resume{
+    text-align: right;
+    color: white;
+    border: 4px black;
+    text-decoration: none;
+}
+.resume:hover{
+    color: lightskyblue;
+}
+.accordion-logo{
+    width: 70px;
+    height: auto;
+    justify-content: left;
+}
+.resume_click{
+    background-color: black;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.exp header .Resume{
+    align-items: center;
+}

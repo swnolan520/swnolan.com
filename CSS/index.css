@@ -1,0 +1,29 @@
+/*Introduction*/
+.intro_p1{
+    text-align: center;
+}
+.pfp{
+    display: grid;
+    margin: auto;
+    width: 500px;
+    height: auto;
+    justify-content: center;
+}
+.certified{
+    text-align: center;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    column-gap: 20px;
+    justify-content: center;
+}
+.certification{
+    margin: auto;
+    width: 500px;
+    height: auto;
+}
+.certification-caption{
+    text-align: center;
+}

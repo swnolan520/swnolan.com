@@ -21,6 +21,9 @@ body{
     margin: 0px;
     background-image: url("../media/webpage_background.jpg");
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     /*background-color: rgb(224, 247, 255);*/
 }
 /* navbar formatting */
@@ -52,7 +55,7 @@ header .main-navbar li{
     text-align: center;
     list-style-type: none;
 }
-.navbar-main-container{
+.navbar-container{
     background-color: black;
     margin: 0%;
     padding: 0%;
@@ -96,81 +99,6 @@ figcaption{
     color: white;
     border: 4px black;
 }
-/*_____styling variables by page_____*/
-/*Introduction*/
-.intro_p1{
-    text-align: center;
-}
-.pfp{
-    display: block;
-    margin: auto;
-    width: 500px;
-    height: auto;
-}
-.certified{
-    text-align: center;
-}
-/*About Me*/
-.personal-photos{
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-}
-.dog{
-    margin: 0;
-}
-.landscape{
-    width: auto;
-    height: 250px;
-}
-.portrait{
-    width: auto;
-    height: 250px;
-}
-table, td, th{
-    border: 6px solid black
-}
-caption{
-    color: white;
-    border: 4px black;
-
-}
-td{
-    color: white;
-    border: 4px black
-}
-/*Experience*/
-.accordion{
-    margin: 20px;
-}
-.certification-row{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.certification{
-    width: 350px;
-    height: auto;
-}
-.Resume{
-    text-align: right;
-    color: white;
-    border: 4px black;
-    text-decoration: none;
-}
-.resume:hover{
-    color: lightskyblue;
-}
-.accordion-logo{
-    width: 70px;
-    height: auto;
-    justify-content: left;
-}
-.resume_click{
-    background-color: black;
-    border-radius: 10px;
-    margin-bottom: 20px;
-}
 /*footer content and social media links */
 footer{
     background-color: black;
@@ -188,25 +116,6 @@ footer{
 .SM_acc_links p{
     margin: 0;
 }
-/* table formats */
-table#favorites-table,
-th,
-td{
-    border: 1px solid gray;
-    border-collapse: collapse;
-    padding: 5px;
-}
-table#favorites-table thead {
-    background-color: lightgrey;
-}
-.cpywrt{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: 'Times New Roman', Times, serif;
-    color: white;
-
-}
 .privacy-policy{
     color: white;
 }
@@ -217,36 +126,3 @@ table#favorites-table thead {
 .privacy-policy:visited{
     color: lightgray;
 }
-.exp header .Resume{
-    align-items: center;
-}
-#joke-box{
-    display: grid;
-    justify-content: center;
-    align-items: center;
-}
-.blog{
-    display: grid;
-    grid-template-columns: 400px repeat(1,auto);
-    grid-template-rows: repeat(2,auto);
-    grid-column-gap: 50px;
-}
-#joke-box{
-    grid-row: 1 / 2;
-}
-#blog{
-    margin: 30px;
-}
-#spotify-api{
-    grid-column: 1 / 2;
-    grid-row: 2 / 3;
-}
-#setup{
-    background-color: black;
-    border-radius: 4px;
-}
-#delivery{
-    background-color: black;
-    border-radius: 4px;
-}
-

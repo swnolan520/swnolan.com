@@ -1,0 +1,45 @@
+/*About Me*/
+.personal-photos{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.dog{
+    margin: 0;
+}
+.landscape{
+    width: auto;
+    height: 250px;
+}
+.portrait{
+    width: auto;
+    height: 250px;
+}
+table, td, th{
+    border: 6px solid black
+}
+caption{
+    color: white;
+    border: 4px black;
+
+}
+td{
+    color: white;
+    border: 4px black
+}
+/* table formats */
+table#favorites-table,th,td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 5px;
+}
+table#favorites-table thead {
+    background-color: lightgrey;
+}
+.cpywrt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
