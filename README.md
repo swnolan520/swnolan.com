@@ -12,8 +12,9 @@ The goal of this project is to create a professional website showcasing my skill
 #### Organize CSS semantics to help better format pages
 - [x] Split styles.css out by html page
 - [x] objects adjust around background artwork according to page size
-#### Use CSS to semantically format pages to display nicely on browsers
+#### Use CSS to semantically format pages to display responsively on browser windows
 - [] format index page photos and content
+- [] Keep Certification photos from sliding off center
 
 
 ## Version 1.0 Features (3/23/2025)
