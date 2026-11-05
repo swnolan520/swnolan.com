@@ -7,8 +7,8 @@ This repository contains all of the resources needed to run swnolan.com
 The goal of this project is to create a professional website showcasing my skills and to share a bit of info about me. So far, the website runs using a domain name purchased from the DNS site Namecheap labeled swnolan.com. Resources are hosted by Github Pages via domain CNAME.
 
 ### Version 1.02 (11/5/2026)
-[] Split styles.css out by html page
-[] objects adjust around background artwork according to page size
+- [] Split styles.css out by html page
+- [] objects adjust around background artwork according to page size
 
 
 # Version 1.0 Features (3/23/2025)
