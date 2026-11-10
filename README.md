@@ -11,7 +11,8 @@ The goal of this project is to create a professional website showcasing my skill
 ### Version 1.02 (11/5/2026)
 #### Use CSS to semantically format pages to display responsively on browser windows
 - [] format index page photos and content
-- [] Keep Certification photos from sliding off center
+- [x] Keep Certification photos from sliding off center
+##### <i>Fixed 11/10/2026: Certification images set to fixed width within grid element, mobile viewport set sizing in head</i>
 #### Organize CSS semantics to help better format pages
 - [x] Split styles.css out by html page
 - [x] objects adjust around background artwork according to page size
