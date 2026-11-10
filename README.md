@@ -7,8 +7,14 @@ This repository contains all of the resources needed to run swnolan.com
 The goal of this project is to create a professional website showcasing my skills and to share a bit of info about me. The website runs using a domain name purchased from the DNS site Namecheap labeled swnolan.com. Resources are hosted by Github Pages via domain CNAME.
 
 # Project Updates
+## Version 3.0 Requirements
+- [] All pages include responsive and organized layout
+- [x] Update Index (Done: 11/10/2026)
+- [] Update About Me
+- [] Update Experiences
+- [] Update Blog
 
-### Version 1.02 (11/5/2026)
+### Version 2.25 (11/5/2026)
 #### Use CSS to semantically format pages to display responsively on browser windows
 - [] format index page photos and content
 - [x] Keep Certification photos from sliding off center
@@ -20,38 +26,9 @@ The goal of this project is to create a professional website showcasing my skill
 ### Version 1.01 (4/5/2025 - Backlog)
 - [] edit cookie pop up so it does not return if a user refreshes a page (Page data cache? fix for this uncertain.)
 
-## Version 1.0 Features (3/23/2025)
-
-<u>web hosting</u>
-[] Apache Server
-[] Azure static web app
-[] windows IIS
-[x] Github Pages
-
-## requirements for BAIS:3300 mod 8 HW (Version 1)
-- [x] At least two web pages
-- [X] two links to external sites
-- [x] two appropriate photos
-- [x] contains at least two different sized headings
-- [x] contains one ordered or unordered list
-- [x] organizes html info using semantic elements
-- [X] all pages successfully validate as HTML5 and CSS3
-- [x] at least 6 elements are formatted on your site using External CSS
-- [x] stylesheet uses at least 1 class element fo custom formatting
-- [X] table appears on one page. CSS is used to style the table
-- [x] multiple git repo pushes with useful commit messages
-- [x] hosted on web?
-
-## Pages to validate
-### HTML
-- [X] index.html
-- [X] aboutme.html
-- [X] experience.html
-- [X] blog.html
-
-### CSS
-- [X] styles.css
-
 ### Methods and Ideas to learn more about
 - CSS media Queries, for more specific CSS page layouts.
 - continue to learn how flexbox, grid and block elements interact and behave.
+
+## Version 4.0 Requirements
+- [] Adds mock online e-commerce store
