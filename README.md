@@ -51,3 +51,7 @@ The goal of this project is to create a professional website showcasing my skill
 
 ### CSS
 - [X] styles.css
+
+### Methods and Ideas to learn more about
+- CSS media Queries, for more specific CSS page layouts.
+- continue to learn how flexbox, grid and block elements interact and behave.
