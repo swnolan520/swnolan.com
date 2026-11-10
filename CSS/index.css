@@ -2,10 +2,16 @@
 .intro_p1{
     text-align: center;
 }
+.intro_p1 picture{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
 .pfp{
-    display: grid;
-    margin: auto;
-    width: 500px;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 500px;
     height: auto;
     justify-content: center;
 }
@@ -13,17 +19,21 @@
     text-align: center;
 }
 .grid-container{
+    max-width: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    column-gap: 20px;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 2px;
     justify-content: center;
+    gap: 10px;
 }
 .certification{
+    display: block;
     margin: auto;
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     height: auto;
 }
 .certification-caption{
     text-align: center;
+    margin-top: 10px;
 }
